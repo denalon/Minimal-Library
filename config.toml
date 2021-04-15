@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://example.com"
 title = "云上记事本"
 
 enableRobotsTXT = true
