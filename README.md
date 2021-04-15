@@ -48,6 +48,11 @@ git clone https://github.com/denalon/Minimal-Library.git
 
 修改 config.toml文件内的代码`theme = ["library"]`或将example目录下的config.toml复制到项目根目录下
 
+
+#### 撰写文章
+
+使用命令
+
 ### 第三步 执行hugo
 
 使用hugo生成页面

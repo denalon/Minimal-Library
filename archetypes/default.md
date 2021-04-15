@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-author: denalon
+author: 
 description: 
 url: /web/{{ now.Year}}/
 ---
