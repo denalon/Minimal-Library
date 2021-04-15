@@ -19,7 +19,7 @@
       <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
         {{ with .Site.Params.copyright }}<small class="text-white">&copy; {{ now.Year}} {{ . }} {{ T "footer_all_rights_reserved" }}</small>{{ end }}
         <br>
-        {{ if .Site.Params.icp }}{{ with .Site.Params.icp }}<small class="text-white"><a class="theme-link text-white" href="http://beian.miit.gov.cn/">ICP备案号：{{. }}</a></small>{{ end }}
+       {{ if .Site.Params.icp }}<small class="text-white"><a class="theme-link text-white" href="http://beian.miit.gov.cn/">ICP备案号：{{.Site.Params.icp }}</a></small>{{ end }}
       </div>
     </div>
   </div>
