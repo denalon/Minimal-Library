@@ -10,7 +10,7 @@ theme = ["Minimal-Library"]
 enableGitInfo = false
 
 # Language settings
-contentDir = "content/zh"
+contentDir = "content"
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
