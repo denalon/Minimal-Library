@@ -22,14 +22,7 @@
 在博客themes目录下执行以下命令:
 
 ```
-git clone https://github.com/elsatar/library.git
-
-```
-
-或使用[备用站点](https://elsatar.coding.net/public/project/library/git/files)
-
-```
-git clone https://e.coding.net/elsatar/project/library.git
+git clone https://github.com/denalon/Minimal-Library.git
 
 ```
 
