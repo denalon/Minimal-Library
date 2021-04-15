@@ -97,7 +97,7 @@ weight = 1
 [params]
 copyright = "denalon"
 privacy_policy = "#"
-icp = "豫ICP备2020027870号-2"
+icp = "icp"
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
 # This menu appears only if you have at least one [params.versions] set.
