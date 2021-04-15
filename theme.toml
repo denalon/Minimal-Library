@@ -3,8 +3,8 @@
 
 name = "Minimal Library"
 license = "Apache License 2.0"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
+licenselink = "https://github.com/denalon/Minimal-Library/blob/master/LICENSE"
+description = "一个适合文档和教程的简洁模板"
 homepage = "https://minimal-library.oribos.cn/"
 tags = ["documentation", "multilingual", "docs"]
 features = []
